@@ -1,0 +1,16 @@
+ .hero{
+    /* background-color: aqua !important;  */
+    /* min-height: 150vh; */
+    flex-direction: column !important;
+    flex-direction: column ;
+     flex-wrap: wrap !important;
+}
+
+.hero img{
+    width: 100%;
+    /* margin-top: 40px !important; */
+}
+
+.text{
+    left: 0;
+}

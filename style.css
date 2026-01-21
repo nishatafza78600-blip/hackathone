@@ -1,0 +1,122 @@
+.links{
+
+}
+
+.butn{
+    background-color:rgb(113, 9, 193);
+    color: white;
+    padding: 10px;
+}
+
+.tab span{
+    color: rgb(113, 9, 193);
+}
+
+.hero{
+ background-color:rgb(113, 9, 193);
+ height: 100vh;
+ color:white;
+ display: flex !important;
+
+}
+
+.hero .butn{
+    background-color: white;
+    color: rgb(113, 9, 193);
+}
+
+.content h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.hero img{
+    /* max-width: 50%; */
+}
+
+.sec3 img{
+   max-width: 100%;
+   
+}
+
+.sec3{
+     height: 90vh;
+    max-width: 100%;
+     position: absolute;
+     margin-right: 50px;
+}
+
+ .text{
+    max-width:50%;
+    background-color:white;
+    border-radius: 20px;
+    position: relative;
+    bottom:150px ;
+    left:600px ;
+
+   
+    
+}
+
+ .text .butn{
+    margin-top: 0;
+ }
+
+   .text h6{
+    font-size: small;
+   }
+
+  .text h4{
+    font-weight: bold;
+    font-size: medium;
+  }
+
+    .text p{
+        font-size: small;
+    }
+    
+    .sec4{
+        height: 100vh;
+        background-color: aqua;
+        max-width: 100%;
+    }
+
+    .boy{
+        background-color: white;
+    }
+
+    .heading h2{
+        font-weight: bold;
+        margin:2em ;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
